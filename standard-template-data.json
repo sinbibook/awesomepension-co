@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.3.0",
-    "generatedAt": "2026-09-23T08:40:57.439927363Z",
+    "version": "1.4.0",
+    "generatedAt": "2026-09-23T08:41:20.976589022Z",
     "templateType": "trip_d",
     "propertyId": "f973babf-e834-465d-9128-ea23fa4b7674",
     "homepageId": "0bc5af86-c46f-47f4-9eaa-c553832f8152"
@@ -29,6 +29,9 @@
     "domain": "awesomepension.co.kr",
     "realtimeBookingId": "https://booking.naver.com/booking/3/bizes/1411079",
     "ybsId": "76896",
+    "tripPropertyId": "8283",
+    "partnerType": "distributor_b",
+    "tripProviderName": "트립일레븐",
     "amenities": [
       "흡연구역(지정장소)",
       "주차장"
@@ -373,10 +376,7 @@
         "surrounding": [ ],
         "commonArea": [ ]
       }
-    ],
-    "tripPropertyId": "8283",
-    "partnerType": "distributor_b",
-    "tripProviderName": "트립일레븐"
+    ]
   },
   "rooms": [
     {
