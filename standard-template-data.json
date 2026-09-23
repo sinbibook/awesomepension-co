@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-09-10T07:38:49.951931012Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-09-23T08:24:04.324746712Z",
     "templateType": "trip_d",
     "propertyId": "f973babf-e834-465d-9128-ea23fa4b7674",
     "homepageId": "0bc5af86-c46f-47f4-9eaa-c553832f8152"
@@ -373,7 +373,10 @@
         "surrounding": [ ],
         "commonArea": [ ]
       }
-    ]
+    ],
+    "tripPropertyId": "8283",
+    "partnerType": "distributor_b",
+    "tripProviderName": "트립일레븐"
   },
   "rooms": [
     {
@@ -1920,6 +1923,27 @@
             "enabled": true,
             "endDate": null,
             "sortOrder": 1,
+            "startDate": null,
+            "description": ""
+          },
+          {
+            "id": "8f1b2e7f-013b-4173-8a72-e912eb028cb3",
+            "link": "",
+            "title": "",
+            "images": [
+              {
+                "id": "01a0cd5d-5a2e-7938-926c-d1366ee9cc8b",
+                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0bc5af86-c46f-47f4-9eaa-c553832f8152/popup/1790151841950-n1d28jgh92.jpg",
+                "sortOrder": 3,
+                "description": "",
+                "isSelected": true,
+                "blockId": "8f1b2e7f-013b-4173-8a72-e912eb028cb3"
+              }
+            ],
+            "slider": false,
+            "enabled": false,
+            "endDate": null,
+            "sortOrder": 2,
             "startDate": null,
             "description": ""
           }
