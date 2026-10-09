@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.5.0",
-    "generatedAt": "2026-10-09T07:39:00.219172629Z",
+    "version": "1.6.0",
+    "generatedAt": "2026-10-09T07:40:17.889156255Z",
     "templateType": "trip_d",
     "propertyId": "f973babf-e834-465d-9128-ea23fa4b7674",
     "homepageId": "0bc5af86-c46f-47f4-9eaa-c553832f8152"
@@ -1867,8 +1867,8 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "64f5953f-0f96-4ef9-a4c4-cc976ffb8e96",
-                    "url": "https://awesomepension.co.kr/assets/images/room/layout.webp",
+                    "id": "01a11f9b-07ca-75cd-8229-10434cb82b4b",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/0bc5af86-c46f-47f4-9eaa-c553832f8152/layout_map_about/1791531614749-7kfpwndhaq.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
@@ -1882,33 +1882,7 @@
           ]
         },
         "landing": {
-          "sections": [
-            {
-              "enabled": false,
-              "hero": {
-                "images": [ ]
-              },
-              "about": [
-                {
-                  "blockId": "sample-card-1",
-                  "propertyId": "sample-property-1",
-                  "propertyName": "현재 숙소",
-                  "title": "",
-                  "images": [ ],
-                  "order": 1
-                },
-                {
-                  "blockId": "sample-card-2",
-                  "propertyId": "sample-property-2",
-                  "propertyName": "연결 숙소 2",
-                  "domain": "http://localhost:8000/t-template-D",
-                  "title": "",
-                  "images": [ ],
-                  "order": 2
-                }
-              ]
-            }
-          ]
+          "sections": [ ]
         }
       },
       "popup": {
