@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2026-10-12T02:58:37.871609358Z",
+    "version": "1.8.0",
+    "generatedAt": "2026-10-19T10:22:36.418850641Z",
     "templateType": "trip_d",
     "propertyId": "f973babf-e834-465d-9128-ea23fa4b7674",
     "homepageId": "0bc5af86-c46f-47f4-9eaa-c553832f8152"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 20시 00분\n※ 20시 이후 입실 시 사전 문자문의",
-    "usageGuide": "[공지사항]\n- 기물훼손, 침구 오염 시 세탁비용 발생\n- 분리수거 안내: 주차장쪽 좌측에 폐휴지, 병, 캔, 플라스틱은 분리 수거해 주시고 음식물은 비닐봉지에 꼭 담아서 음식물 수거함에 넣어주시기 바랍니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 20시 00분\n※ 20시 이후 입실 시 사전 문자문의\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n\n[개별바베큐]\n- 이용 객실: 전객실\n- 바베큐 형태: 숯불\n- 이용 요금: 2인 기준 20,000원/ 추가 1인당 5,000원(1박기준/현장결제)\n※ 신청 시간: 입실 전날 신청/ 숯불 응대 ~20:00\n- 이용 시간: 제한없음\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n- 강풍 시: 이용 불가\n\n[공용수영장]\n- 운영 기간: 26년도 9월 \n※ 펜션에 이용 희망 문자 남겨주셔야 사용 가능합니다.\n※ 현장 상황에 따라 운영 기간 변동될 수 있습니다.\n- 이용 요금: 무료\n- 이용 시간: 입실후~20:00\n- 이용 복장: 수영복, 래쉬가드\n- 온도: 냉수\n※ 지하수로 3일에 한번씩 물을 교체하여 수온이 차갑습니다. 이용 시 긴 옷 권장드립니다.\n\n[스파]\n- 이용 객실: DUPLEX 1, 2, 3\n- 스파 형태: 히노끼 욕조\n- 수용 인원: 2명\n- 이용 요금: 무료\n- 이용 시간: 입실후~00:00\n- 온도 조절: 가능\n※ 입욕제 사용 가능하나 반짝이는 입욕제는 사용불가\n\n[조식 서비스]\n- 메뉴: 빵, 달걀, 커피 등\n- 이용 요금: 무료\n- 이용 시간: 08:00~10:00\n- 이용 장소: 주차장쪽 쉼터\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 넷플릭스 이용 가능\n※ 개인계정사용\n\n[주차장]\n- 주차장 보유\n- 위치: 넓은 주차장\n\n[픽업]\n- 제공 픽업: 입퇴실\n- 장소: 강릉시내, 주문진, 사천\n- 이용 요금: 무료\n※ 운영 시간: 입실 사전문의/퇴실 10:30\n※ 픽업 요청 시 입실 전날까지 사전예약 필수\n※ 토요일은 픽업 불가능합니다.\n\n[교통편]\n[승용차 이용시]\n- 지번 주소 : 강원특별자치도 강릉시 안현동 786-1\n- 도로명 주소 : 강원 강릉시 안현로 53\n\n[대중교통 이용시]\n- 강릉역 300번 버스 승차 즈므.과학단지 정류장 하차 도보로 11분 이동 도착",
+    "usageGuide": "- 기물훼손, 침구 오염 시 세탁비용 발생\n- 분리수거 안내: 주차장쪽 좌측에 폐휴지, 병, 캔, 플라스틱은 분리 수거해 주시고 음식물은 비닐봉지에 꼭 담아서 음식물 수거함에 넣어주시기 바랍니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 20시 00분\n※ 20시 이후 입실 시 사전 문자문의\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 20,000원, 유아 1인 20,000원\n(1박기준/현장결제)\n\n[개별바베큐]\n- 이용 객실: 전객실\n- 바베큐 형태: 숯불\n- 이용 요금: 2인 기준 20,000원/ 추가 1인당 5,000원(1박기준/현장결제)\n※ 신청 시간: 입실 전날 신청/ 숯불 응대 ~20:00\n- 이용 시간: 제한없음\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n- 강풍 시: 이용 불가\n\n[공용수영장]\n- 운영 기간: 26년도 9월 \n※ 펜션에 이용 희망 문자 남겨주셔야 사용 가능합니다.\n※ 현장 상황에 따라 운영 기간 변동될 수 있습니다.\n- 이용 요금: 무료\n- 이용 시간: 입실후~20:00\n- 이용 복장: 수영복, 래쉬가드\n- 온도: 냉수\n※ 지하수로 3일에 한번씩 물을 교체하여 수온이 차갑습니다. 이용 시 긴 옷 권장드립니다.\n\n[스파]\n- 이용 객실: DUPLEX 1, 2, 3\n- 스파 형태: 히노끼 욕조\n- 수용 인원: 2명\n- 이용 요금: 무료\n- 이용 시간: 입실후~00:00\n- 온도 조절: 가능\n※ 입욕제 사용 가능하나 반짝이는 입욕제는 사용불가\n\n[조식 서비스]\n- 메뉴: 빵, 달걀, 커피 등\n- 이용 요금: 무료\n- 이용 시간: 08:00~10:00\n- 이용 장소: 주차장쪽 쉼터\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 넷플릭스 이용 가능\n※ 개인계정사용\n\n[주차장]\n- 주차장 보유\n- 위치: 넓은 주차장\n\n[픽업]\n- 제공 픽업: 입퇴실\n- 장소: 강릉시내, 주문진, 사천\n- 이용 요금: 무료\n※ 운영 시간: 입실 사전문의/퇴실 10:30\n※ 픽업 요청 시 입실 전날까지 사전예약 필수\n※ 토요일은 픽업 불가능합니다.\n\n[교통편]\n[승용차 이용시]\n- 지번 주소 : 강원특별자치도 강릉시 안현동 786-1\n- 도로명 주소 : 강원 강릉시 안현로 53\n\n[대중교통 이용시]\n- 강릉역 300번 버스 승차 즈므.과학단지 정류장 하차 도보로 11분 이동 도착",
     "reservationGuide": "- 기물훼손, 침구 오염 시 세탁비용 발생\n- 분리수거 안내: 주차장쪽 좌측에 폐휴지, 병, 캔, 플라스틱은 분리 수거해 주시고 음식물은 비닐봉지에 꼭 담아서 음식물 수거함에 넣어주시기 바랍니다.",
     "province": "도/시",
     "city": "시/군/구",
@@ -74,7 +74,7 @@
         "name": "공용수영장",
         "description": "",
         "usageGuide": "- 운영 기간: 26년도 9월 \n※ 펜션에 이용 희망 문자 남겨주셔야 사용 가능합니다.\n※ 현장 상황에 따라 운영 기간 변동될 수 있습니다.\n- 이용 요금: 무료\n- 이용 시간: 입실후~20:00\n- 이용 복장: 수영복, 래쉬가드\n- 온도: 냉수\n※ 지하수로 3일에 한번씩 물을 교체하여 수온이 차갑습니다. 이용 시 긴 옷 권장드립니다.",
-        "displayOrder": 1,
+        "displayOrder": 0,
         "images": [
           {
             "id": "079c8ce5-939e-494a-8962-8dd692eff7dd",
@@ -115,7 +115,7 @@
         "name": "스파",
         "description": "",
         "usageGuide": "- 이용 객실: DUPLEX 1, 2, 3\n- 스파 형태: 히노끼 욕조\n- 수용 인원: 2명\n- 이용 요금: 무료\n- 이용 시간: 입실후~00:00\n- 온도 조절: 가능\n※ 입욕제 사용 가능하나 반짝이는 입욕제는 사용불가",
-        "displayOrder": 2,
+        "displayOrder": 1,
         "images": [
           {
             "id": "4c154c6a-9838-41f0-abb5-c514bd97ea8d",
@@ -156,7 +156,7 @@
         "name": "개별바베큐",
         "description": "",
         "usageGuide": "- 이용 객실: 전객실\n- 바베큐 형태: 숯불\n- 이용 요금: 2인 기준 20,000원/ 추가 1인당 5,000원(1박기준/현장결제)\n※ 신청 시간: 입실 전날 신청/ 숯불 응대 ~20:00\n- 이용 시간: 제한없음\n- 우천 시: 이용 가능\n- 동계 시: 이용 가능\n- 강풍 시: 이용 불가",
-        "displayOrder": 3,
+        "displayOrder": 2,
         "images": [
           {
             "id": "5877c1bc-56e6-446f-9608-dac8ee644442",
@@ -186,6 +186,71 @@
             "id": "675fc0a2-2899-4ecf-be4d-57399dcbfaf0",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/367f0b06-0a67-42fe-95a4-78d32a11a252/main/1788145613010-oex52g78uy.webp",
             "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "01a153ae-936b-7ae7-9a75-2e7117c219eb",
+        "name": "조식 서비스",
+        "description": "",
+        "usageGuide": "- 메뉴: 빵, 달걀, 커피 등\n- 이용 요금: 무료\n- 이용 시간: 08:00~10:00\n- 이용 장소: 주차장쪽 쉼터",
+        "displayOrder": 3,
+        "images": [
+          {
+            "id": "01a153ae-a2c2-7a26-92a4-d78c7e5b817a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a153ae-936b-7ae7-9a75-2e7117c219eb/main/1792405315605-46jfwhjinp.webp",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a153ae-a2be-7d44-9a96-c561d6058996",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a153ae-936b-7ae7-9a75-2e7117c219eb/main/1792405315604-crdlpbh7cg.webp",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a153ae-a2b7-798a-b25f-c74450a55082",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a153ae-936b-7ae7-9a75-2e7117c219eb/main/1792405315608-y5nhai5cms.webp",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a153ae-a1f9-7b55-8b50-1b5ca785ad70",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a153ae-936b-7ae7-9a75-2e7117c219eb/main/1792405315609-or8eko7msc.webp",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a153ae-a2c3-7401-a6a0-d76fda23b7ea",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a153ae-936b-7ae7-9a75-2e7117c219eb/main/1792405315608-gwzkb2mch8.webp",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a153ae-a166-7832-9aba-8a7f355e6805",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a153ae-936b-7ae7-9a75-2e7117c219eb/main/1792405315632-xxn0boi6ht.webp",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a153ae-a2b8-7d8c-90a5-9d02c98dc514",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a153ae-936b-7ae7-9a75-2e7117c219eb/main/1792405315608-0hc0vshgyg.webp",
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -301,7 +366,7 @@
           {
             "id": "cd825d5f-38d2-4e40-ad5a-157c0c7a6e7b",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/04/mRvUNhspdQi4.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -311,7 +376,7 @@
           {
             "id": "e9c951e2-d6a7-4221-b2b0-0e5fbb49707e",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/04/kW9xc73rdpbC.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -319,7 +384,7 @@
           {
             "id": "67a8ed5d-126a-4d48-b3ab-9361f5c169a9",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/04/rKIA2iy3uzxs.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -327,7 +392,7 @@
           {
             "id": "c1f7fdb6-3404-44f2-a227-ef379b093b63",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/04/EofGqIy5AvLg.jpg",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -335,7 +400,7 @@
           {
             "id": "9bb36670-8e9d-4a0c-b445-af6426a3bce2",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/04/vAz7V62EFWfw.jpg",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -343,7 +408,7 @@
           {
             "id": "0880fe40-d909-4889-ad73-432a4df8061c",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/04/QYEaH8cMLUjv.jpg",
-            "sortOrder": 6,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -351,7 +416,7 @@
           {
             "id": "828577c8-b158-41a9-bf39-8161a3c915d8",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/04/WBPsD2RiMpwe.jpg",
-            "sortOrder": 7,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -359,7 +424,7 @@
           {
             "id": "6a0a652c-aec2-4459-a3b5-e3ada95c7638",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/04/97MWy58eUdrF.jpg",
-            "sortOrder": 8,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -367,7 +432,7 @@
           {
             "id": "3730c9a1-5413-49d8-bc3e-fcdc9546a457",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/04/JXwlWDQ0fBPV.jpg",
-            "sortOrder": 9,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -1902,6 +1967,7 @@
               }
             ],
             "slider": false,
+            "videos": [ ],
             "enabled": true,
             "endDate": null,
             "sortOrder": 0,
@@ -1923,6 +1989,7 @@
               }
             ],
             "slider": false,
+            "videos": [ ],
             "enabled": false,
             "endDate": null,
             "sortOrder": 1,
@@ -1944,6 +2011,7 @@
               }
             ],
             "slider": false,
+            "videos": [ ],
             "enabled": true,
             "endDate": null,
             "sortOrder": 2,
